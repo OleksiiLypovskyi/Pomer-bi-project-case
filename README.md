@@ -1,0 +1,3 @@
+- Use Power bi to show results of Excel table
+- Make in comfortable for view
+- Work with different columns of table
